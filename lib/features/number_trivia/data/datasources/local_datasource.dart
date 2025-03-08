@@ -4,3 +4,4 @@ abstract class LocalDatasource{
   Future<NumberTriviaModel> getLastNumberTrivia();
   Future<void> cacheNumberTrivia(NumberTriviaModel instance);
 }
+

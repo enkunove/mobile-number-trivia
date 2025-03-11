@@ -14,7 +14,7 @@ dependencies:
   equatable:
   dartz:
   data_connection_checker_nulls:
-  http:
+  dio:
   shared_preferences:
 
 dev_dependencies:
